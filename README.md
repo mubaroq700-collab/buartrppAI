@@ -1,2 +1,2 @@
-# buatrppai
-website pembuat rpp Otomatis yang dirancang untuk memudahkan guru dalam membuat perangkat pembelajaran
+# rpp-generator-ai
+`RPP Generator AI - Platform untuk membuat RPP otomatis dengan AI`
